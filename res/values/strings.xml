@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stack Overflow Mobile</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="hide">Hide</string>
+    <string name="show">Show</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="wrong_login">Wrong Login</string>
+    <string name="logout">Logout</string>
+    <string name="action_logout">Logout</string>
+    <string name="send">Login</string>
+    <string name="title_activity_send_message">Send Message</string>
+    <string name="to">To:</string>
+    <string name="toEmail">Email</string>
+    <string name="subject">Subject</string>
+    <string name="textHint">Enter your body heres</string>
+    <string name="sendButton">Send</string>
+    <string name="description">Description</string>
+    <string name="example">Example</string>
+    <string name="image">Image</string>
+    <string name="list">List</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="create">Create Item</string>
+    <string name="delete">Delete Item</string>
+    <string name="deletebtn">Delete</string>
+    <string name="newapi">NewApi</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="createbtn">View answers</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_comment">CommentActivity</string>
+
+</resources>
